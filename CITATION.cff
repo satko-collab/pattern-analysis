@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or adapt this skill, please cite it using the metadata below."
+title: "Pattern Analysis: A structural reasoning skill"
+type: software
+authors:
+  - family-names: "Kowzan"
+    given-names: "Piotr"
+    affiliation: "University of Gdańsk"
+    email: "piotr.kowzan@ug.edu.pl"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: "CC-BY-4.0"
+keywords:
+  - "pattern analysis"
+  - "first principles"
+  - "systemizing"
+  - "monotropism"
+  - "structural reasoning"
