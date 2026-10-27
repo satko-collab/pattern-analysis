@@ -1,0 +1,14 @@
+interface:
+  display_name: Pattern Analysis
+  short_description: Structural reasoning from first principles
+  default_prompt: Use $pattern-analysis to reveal the hidden mechanisms, anomalies,
+    and transferable patterns in this problem.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
